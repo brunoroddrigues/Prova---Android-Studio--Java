@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">LosanguloApp</string>
+        <string name="app_titulo1">Calcular Área e Perímetro do Losângulo</string>
+        <string name="app_titulo2">Resultados Finais</string>
+        <string name="texto_campo1">Diagonal Maior:</string>
+        <string name="texto_campo2">Diagonal Menor:</string>
+        <string name="texto_campo3">Lado(s):</string>
+        <string name="texto_campo4">Área do Losâgulo:</string>
+        <string name="texto_campo5">Perímetro do Losâgulo:</string>
+        <string name="texto_campo6">Bruno Rodrigues</string>
+        <string name="hint_campo1">Entre com a Diagonal Maior</string>
+        <string name="hint_campo2">Entre com o Diagonal Menor</string>
+        <string name="hint_campo3">Entre com o(s) Lado(s)</string>
+        <string name="button_texto_calcular">Calcular</string>
+</resources>
